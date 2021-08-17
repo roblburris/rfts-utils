@@ -1,1 +1,5 @@
 *.txt
+keys.py
+test.py
+*.json
+/__pycache__
